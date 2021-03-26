@@ -2,10 +2,6 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(int)
 end
-def int 
-end
-i_3 = int % 3 == 0 
-i_5 = int % 5 == 0 
 def fizzbuzz(int)
   if int % 3 == 0 && int % 5 == 0 
   "FizzBuzz"
